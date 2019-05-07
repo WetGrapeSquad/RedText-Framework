@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+RedText_Framework\.pro\.user
+
+RedText_Framework\.pro
